@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import AuthorImg from '../../static/author/dummy.png'
 
 const Author = () => {
@@ -9,7 +10,7 @@ const Author = () => {
 
                     <div className="grid-child" id="author-contents">
 
-                        <p>
+                        <p data-aos="fade-up" data-aos-duration="2000">
                             Charles Curtis was born and raised in North Dakota. After high school,
                             he joined the military and served in the army in Germany. Upon his honorable
                             discharge, he moved to Seattle, Washington, where he would meet his future wife.
@@ -18,17 +19,20 @@ const Author = () => {
                             survivor stories.
                         </p>
 
-                        <h1 className="author-name-tag">
+                        <h1 className="author-name-tag" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
                             <span>Charles</span>
                             <span>Curtis</span>
                         </h1>
 
                         <span className="author-tagline">Author & Writer</span>
 
+                        <button className="buttonLayouts" data-aos="fade-up" data-aos-duration="3000" >
+                            <Link to="/about-the-author">Read Full Bio</Link>
+                        </button>
                     </div>
 
                     <div className="grid-child" id="author-image-container">
-                        <img alt="author-img" src={AuthorImg} />
+                        <img alt="author-img" src={AuthorImg} data-aos="fade-up" data-aos-duration="3000" />
                     </div>
 
                 </div>

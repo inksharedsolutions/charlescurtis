@@ -210,6 +210,19 @@
     }
 }
 
+.buttonLayouts {
+    background: none;
+    border: 2px solid #ffffff;
+    border-radius: 40px;
+    padding: 2% 16%;
+    margin-top: 5%;
+
+    a {
+        text-transform: uppercase;
+        color: white;
+    }
+}
+
 .author-tagline {
     display: block;
     margin-top: 6%;

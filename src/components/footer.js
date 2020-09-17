@@ -31,7 +31,7 @@ const Footer = () => {
                             <ul>
 
                                 <li>
-                                    <a href="https://www.facebook.com/StrattonPress/"
+                                    <a href="https://stratton-press.com"
                                         target="_blank"
                                         rel="noreferrer">
                                         <FontAwesomeIcon
