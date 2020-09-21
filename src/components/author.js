@@ -14,9 +14,6 @@ const Author = () => {
                             Charles Curtis was born and raised in North Dakota. After high school,
                             he joined the military and served in the army in Germany. Upon his honorable
                             discharge, he moved to Seattle, Washington, where he would meet his future wife.
-                            They have three grown children, one grandson, and one bad cat. Currently retired,
-                            Charles and his wife enjoy cruising. Charles is a voracious reader and a true fan of
-                            survivor stories.
                         </p>
 
                         <h1 className="author-name-tag" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
@@ -27,7 +24,7 @@ const Author = () => {
                         <span className="author-tagline">Author & Writer</span>
 
                         <button className="buttonLayouts" data-aos="fade-up" data-aos-duration="3000" >
-                            <Link to="/about-the-author">Read Full Bio</Link>
+                            <Link to="/about-the-author">Read More</Link>
                         </button>
                     </div>
 

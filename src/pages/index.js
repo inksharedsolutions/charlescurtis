@@ -12,7 +12,7 @@ import FeaturedLogos from "../components/mid-main"
 const IndexPage = (props) => (
     <Layout>
         <Nav pathExt={props.path} />
-        <Banner />
+        <Banner /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
         <MidBook />
         <Author />
         <ParallaxBottom />

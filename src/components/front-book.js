@@ -27,12 +27,10 @@ const MidBook = (props) => {
                             </h1>
 
                             <p data-aos="fade-up" data-aos-duration="2000">
-                                Love and Forensics is, first and foremost, a love story. When Chris Sutton is framed
-                                and imprisoned for a murder he did not commit, it is up to his wife, Terri, to find out
-                                the truth to set him free. When Terri embarks on this worldwide trip, she didn't know
-                                how far the journey would take her or the strange adventures that await. What may be
-                                more starting is the truth isn't always what you expect, but with the belief in love and
-                                science of forensics, the truth shall set you free.
+                                Love and Forensics is, first and foremost, a love story.
+                                When Chris Sutton is framed and imprisoned for a murder he
+                                did not commit, it is up to his wife, Terri, to find out the
+                                truth to set him free.
                             </p>
 
                             <button className="btn-book-featured" data-aos="fade-up" data-aos-duration="3000">

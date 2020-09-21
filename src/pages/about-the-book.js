@@ -41,19 +41,16 @@ const ATB = (props) => {
                                 content:
                                     `
                                         <p>
-                                           Ralph Mullen is a famous toxicologist who has done many
-                                           investigations for the United States government and has recently
-                                           retired; however, good men, especially with Ralph’s talents in
-                                           science and skill as a Force Recon Marine, are not allowed
-                                           to retire so easily. They become part-time retirees.
+                                            Love and Forensics is, first and foremost, a love story. 
+                                            When Chris Sutton is framed and imprisoned for a murder 
+                                            he did not commit, it is up to his wife, Terri, to find 
+                                            out the truth to set him free. When Terri embarks on this 
+                                            worldwide trip, she didn’t know how far the journey would 
+                                            take her or the strange adventures that await. What may be 
+                                            more startling is the truth isn’t always what you expect, 
+                                            but with the belief in love and the science of forensics, 
+                                            the truth shall set you free. 
                                         </p> 
-
-                                        <p>
-                                           Ralph gets a call to investigate a strange “black tide”
-                                           in the Northern Pacific Ocean. He thinks it is a waste
-                                           of his time, but a longtime friend of his is asking, so
-                                           he accepts the project. What he encounters is more than he bargained for.
-                                        </p>
                                     `,
 
                                 ebooks: {
@@ -63,7 +60,7 @@ const ATB = (props) => {
                                 },
                                 paperback: {
                                     amazon: 'https://www.amazon.com/Love-Forensics-Imprint-Charles-Curtis/dp/1643456504/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1600240247&sr=8-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/love-and-forensics-charles-curtis/1116744125?ean=9781483667171',
+                                    barnes: 'https://www.barnesandnoble.com/w/love-and-forensics-charles-curtis/1116744125?ean=9781643456508',
                                     booksamillion: 'https://www.booksamillion.com/p/Love-Forensics/Charles-Curtis/9781643456508?id=7997864620895',
                                 }
                             }}

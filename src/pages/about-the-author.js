@@ -28,7 +28,6 @@ const ATB = (props) => {
                                     “Fraud is the homage that force pays to reason.”.
                                 </h4>
                                 <span className="ata-span-fx">
-                                    author quote
                                 </span>
                             </div>
 

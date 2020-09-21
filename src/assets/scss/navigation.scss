@@ -28,15 +28,16 @@
 
 .navigation {
 
-    min-height: 150px;
+    min-height: 100px;
     width: 100%;
     padding: 0 5%;
+    padding-top: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
     z-index: 999;
     position: absolute;
-    background: #ffffff1f;
+    background: transparent;
 
     h1 {
         a {
@@ -52,7 +53,7 @@
         a {
             text-decoration: none;
             color: #ffffffc2 !important;
-            font-size: 15px;
+            font-size: 20px;
             text-transform: uppercase;
             font-weight: 900;
 

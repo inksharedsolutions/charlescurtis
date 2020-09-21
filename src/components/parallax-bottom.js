@@ -7,9 +7,9 @@ const ParallaxBottom = () => {
             <section className="parallax-bottom">
                 <div className="flex-container">
                     <h1>
-                        Fraud is the homage that force pays to reason.
+                        The best present I received was marrying your mother
                         <span className="italic-tag span-verse">
-                            Charles Curtis
+                            Chris Sutton
                         </span>
                     </h1>
                 </div>
