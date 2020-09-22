@@ -14,15 +14,15 @@ const Banner = () => {
 
                         <div className="grid-child-elem">
                             <div className="banner-text">
-                                <p>
+                                <p data-aos="fade-up" data-aos-duration="3000" >
                                     Love and
                                 </p>
 
-                                <h1>
+                                <h1 data-aos="fade-up" data-aos-duration="2000" >
                                     FORENSICS
                                 </h1>
 
-                                <p className="right-sub-text">
+                                <p className="right-sub-text" data-aos="fade-up" data-aos-duration="3000" >
                                     <span>AN IMPRINT ON LIFE</span>
                                 </p>
 
